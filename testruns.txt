@@ -1,0 +1,38 @@
+Run #1:
+Enter a word: moon
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'moon':
+1.mono
+2.moon
+
+Run #2:
+Enter a word: imagine
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'imagine':
+1.imagine
+
+Run #3:
+Enter a word: alter
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'alter':
+1.alert
+2.alter
+3.artel
+4.later
+5.ratel
+6.retal
+7.taler
+8.telar
+
+Run #4:
+Enter a word: finance
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'finance':
+1.finance
+
+Run #5:
+Enter a word: over
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'over':
+1.over
+2.rove

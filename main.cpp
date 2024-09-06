@@ -59,8 +59,10 @@ int main() {
          << endl;
   } else {
     cout << "Anagrams found for the word '" << word << "':" << endl;
+    int index = 1; // Here, I start the index at 1 to start the counter
     for (const string &anagram : anagrams) {
-      cout << anagram << endl;
+      cout << index << "." << anagram << endl; // Here, I add the index to the front of the anagram
+      index = index + 1; // After each iteration, also add the index
     }
   }
 
